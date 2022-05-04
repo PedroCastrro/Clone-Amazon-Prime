@@ -7,7 +7,7 @@
 <img "alt="" src="/amazon-prime.png">
 </div>
 
-<h2>Clone do priprio Amazon Prime</h2>
+<h2>Clone Amazon Prime Rendeniaado </h2>
 
 <p>Abaixo fotos, gif e video</p>
 

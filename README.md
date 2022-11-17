@@ -1,6 +1,8 @@
 ### READEME
 ##Projeto clone amazon prime
 
+https://clone-prime.netlify.app/
+
 <p>Nesse site foi usado html , css e javascript   </p>
 
 <div>
